@@ -1,0 +1,7 @@
+#800000 - Maroon
+#90C2E7 - Light Blue
+#76E7CD - Light Greenish Blue
+#CFCDC6 - White-ish Grey
+#73726F - Dark Grey
+#DF7A36 - Amber
+#2C2A37 - Blue Violet-ish Black

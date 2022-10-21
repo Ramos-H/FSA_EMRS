@@ -1,0 +1,12 @@
+-Use hashes to check if the database used by the program is changed behind the timeline's eye(Most likely occuring to stealing the file, replacing info on it, then putting it back to its original place)
+-Implement Animations(REMEMBER: Use the Async modifier for your stopwatch based delta timer!)
+-Bug Test like there's no tomorrow (Youll wish you were dead if the panelists find bugs in your system)
+-Fix the minimize and maximize buttons
+-Stop the flickering
+-Use "Safe" data types
+-Restrict register height and weight to numbers
+-Restrict input fields/textboxes to their required data only
+-Add functionality for recording ALMOST EVERY ACTION to a buffer(a string array, maybe) for the timeline
+-Add comments to new stuff
+-Add functionality for forgotten passwords[ALMOST]
+-Add functionality to interpret height input as foot ' inch ''
